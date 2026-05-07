@@ -1,4 +1,4 @@
-# INTEGRANTES 
+# Integrantes
 Jennyfer Guayanay (SUPABASE)
 Michael Carrillo (FIREBASE)
 
