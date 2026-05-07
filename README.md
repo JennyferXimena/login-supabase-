@@ -2,6 +2,8 @@
 Jennyfer Guayanay (SUPABASE)
 Michael Carrillo (FIREBASE)
 
+<img width="886" height="467" alt="image" src="https://github.com/user-attachments/assets/a7728d03-324e-46b3-b399-0cee878495a8" />
+
 ## Supabase Login Fullstack
 
 Arquitectura:
